@@ -7,6 +7,7 @@ I come primarily from a PHP environment and I want to finally take the plunge an
 * [Team Treehouse Ruby on Rails Course](http://teamtreehouse.com/learning-adventures/learn-ruby-on-rails) [Requires Subscription]
 * [Tuts+ Premium Ruby Category](https://tutsplus.com/courses/?q=true&filter_topic=46) [Requires Subscription]
 * [Code School](http://www.codeschool.com/paths/ruby) [Requires Subscription?]
+* [One Month Rails](https://onemonthrails.com/) [Requires Subscription]
 
 ## Articles
 * [To Ruby From PHP](http://www.ruby-lang.org/en/documentation/ruby-from-other-languages/to-ruby-from-php/)
