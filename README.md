@@ -7,6 +7,7 @@ I come primarily from a PHP environment and I want to finally take the plunge an
 * [Tuts+ Premium Ruby Category](https://tutsplus.com/courses/?q=true&filter_topic=46) [Requires Subscription]
 * [Code School](http://www.codeschool.com/paths/ruby) [Requires Subscription?]
 * [One Month Rails](https://onemonthrails.com/) [Requires Subscription]
+* [Code Academy](http://www.codecademy.com/tracks/ruby)
 
 ## Articles
 * [Learn Ruby in Y Minutes](http://learnxinyminutes.com/docs/ruby/ )
