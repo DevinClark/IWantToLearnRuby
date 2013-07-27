@@ -22,3 +22,4 @@ I come primarily from a PHP environment and I want to finally take the plunge an
 ## Books
 * [The Rails 4 Way](https://leanpub.com/tr4w)
 * [Ruby on Rails: The Little Gem That Could](https://leanpub.com/Ruby-on-Rails-The-little-Gem-that-Could)
+* [Rails 4 in Action](http://manning.com/bigg2/)
