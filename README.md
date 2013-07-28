@@ -23,6 +23,7 @@ I recently came across a resource that is exactly what I wanted to do with this 
 * [From Floor to Ruby](https://speakerdeck.com/kierangraham/from-floor-to-ruby)
 
 ## Books
+* [Learn Ruby The Hard Way](http://ruby.learncodethehardway.org/)
 * [The Rails 4 Way](https://leanpub.com/tr4w)
 * [Ruby on Rails: The Little Gem That Could](https://leanpub.com/Ruby-on-Rails-The-little-Gem-that-Could)
 * [Rails 4 in Action](http://manning.com/bigg2/)
