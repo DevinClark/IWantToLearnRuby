@@ -4,6 +4,8 @@ I come primarily from a PHP environment and I want to finally take the plunge an
 
 I recently came across a resource that is exactly what I wanted to do with this repo. It even has the same name! How weird is that? Anyways, you can check it out at [iwanttolearnruby.com](http://iwanttolearnruby.com/).
 
+UPDATE: I have completed the Team Treehouse Ruby course and I am almost finished with their Rails course. I would highly recommend them.
+
 ## Video Series
 * [Team Treehouse Ruby on Rails Course](http://teamtreehouse.com/learning-adventures/learn-ruby-on-rails) [Requires Subscription]
 * [Tuts+ Premium Ruby Category](https://tutsplus.com/courses/?q=true&filter_topic=46) [Requires Subscription]
